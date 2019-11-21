@@ -68,1246 +68,3418 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "Gundam",
+    img: "TsUO0bB.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
-      stage: ["st4"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Guncannon",
+    img: "jgNTC5L.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
-      stage: ["st4", "ex"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Rumia",
-    img: "0YT7QlS.png",
+    name: "Guntank",
+    img: "lJobgcy.png",
     opts: {
-      series: ["book", "EoSD", "StB", "HM"],
-      stage: ["st1"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
+    name: "GM",
+    img: "nbB1Z44.png",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st2", "ex"],
-      nameless: true
-    },
-  },
-  {
-    name: "Cirno",
-    img: "qdveFSy.png",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
-      stage: ["st2"]
-    }
-  },
-  {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
-    opts: {
-      series: ["book", "EoSD"],
-      stage: ["st4"],
-      nameless: true
-    }
-  },
-  {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
-    }
-  },
-  {
-    name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
-      stage: ["st5", "st6"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
+    name: "Ball",
+    img: "ZiRW5pP.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    name: "Zaku I",
+    img: "E7X2DUZ.png",
     opts: {
-      series: ["book", "EoSD", "StB", "VD"],
-      stage: ["ex"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+    name: "Zaku II",
+    img: "UdNkIrz.png",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
-      stage: ["st1"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Chen",
-    img: "ohmetZh.png",
+    name: "Zaku II [Commander Type]",
+    img: "8Deaf6a.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st2", "ex"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
+    name: "Char's Zaku II",
+    img: "1WS35CX.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["st3"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
+    name: "Gouf",
+    img: "s31jC6n.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
-      stage: ["st4", "ex"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
+    name: "Dom",
+    img: "S8gE2lo.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
+    name: "Rick Dom",
+    img: "mlstSVG.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
+    name: "Gelgoog",
+    img: "DMhI6l9.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
+    name: "Gelgoog [Commander Type]",
+    img: "dhutc9b.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
-      stage: ["st5", "st6"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
+    name: "Char's Gelgoog",
+    img: "AxHmpCA.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
-      stage: ["st1", "st6"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
+    name: "Gyan",
+    img: "HKdl1g9.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
-      stage: ["ex"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
+    name: "Gogg",
+    img: "PodzsOh.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
-      stage: ["ex"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
+    name: "Acguy",
+    img: "VK2w3pl.png",
     opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
-    opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st1"]
-    }
+	name: "Z'Gok",
+	img: "xjaGccP.png",
+	opts: {
+	  series: ["0079"],
+	  timeline: ["uc"]
+	}
   },
   {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
+    name: "Char's Z'Gok",
+    img: "RCTLWvD.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st2"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
+    name: "Zock",
+    img: "ja9NEvp.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
-      stage: ["st3", "ex"]
+      series: [ "0079" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "Zeong",
+    img: "EczyO60.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      series: ["0079"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
+    name: "Char's Zaku II [The Origin]",
+    img: "z1fVT3n.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
-      stage: ["st5"]
+      series: [ "msgo" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
+    name: "Guntank Early Type",
+    img: "nsQFm7b.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["msgo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
+    name: "G-3 Gundam",
+    img: "yKixSTN.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
+    name: "Full Armor Gundam",
+    img: "HcJIqQ7.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Shameimaru Aya",
-    img: "8TLXMST.png",
+    name: "Perfect Gundam",
+    img: "7QG5n3o.png",
     opts: {
-      series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
-      stage: ["st4"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Medicine Melancholy",
-    img: "IImsp7K.png",
+    name: "Guncannon Heavy Arms Type",
+    img: "iw9SNAV.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st4"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kazami Yuuka",
-    img: "MZXJQq5.png",
+    name: "Guncannon II",
+    img: "vffEtgq.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Onozuka Komachi",
-    img: "aX4WIH8.png",
+    name: "Guntank II",
+    img: "s8wn90Z.png",
     opts: {
-      series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
-      stage: ["st5"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
-    img: "nPBvatH.png",
+    name: "GM Sniper Custom",
+    img: "2J72kxF.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM", "VD"],
-      stage: ["st6"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Aki Shizuha",
-    img: "3pDRgvR.png",
+    name: "GM Cannon",
+    img: "gWTGRv4.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Aki Minoriko",
-    img: "bV0DaN7.png",
+    name: "Dozle Zabi's Zaku II",
+    img: "eUYGq22.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      series: [ "msv" ],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kagiyama Hina",
-    img: "J11NjNj.png",
+    name: "Garma Zabi's Zaku II",
+    img: "xYNaBwI.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st2"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kawashiro Nitori",
-    img: "4Ufced2.png",
+    name: "Zaku II High Mobility Type",
+    img: "oQpPhn9.png",
     opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st3"]
-    }
+      series: ["msv"],
+      timeline: ["uc"]
+	}
   },
   {
-    name: "Inubashiri Momiji",
-    img: "qGMjnYk.png",
+    name: "Zaku II HMT [Commander]",
+    img: "ZyOVjxy.png",
     opts: {
-      series: ["MoF", "DS", "ISC"],
-      stage: ["st4"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kochiya Sanae",
-    img: "ATTRSWU.png",
+    name: "Black Tri-Stars' Zaku II HMT",
+    img: "XSegPIH.png",
     opts: {
-      series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK"],
-      stage: ["st5", "ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yasaka Kanako",
-    img: "nQ78Lz7.png",
+    name: "Black Tri-Stars' Zaku II HMT [Commander]",
+    img: "wBrsGUg.png",
     opts: {
-      series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6", "ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Moriya Suwako",
-    img: "yJaD5ZV.png",
+    name: "Shin Matsunaga's Zaku II HMT",
+    img: "vgBGH1x.png",
     opts: {
-      series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Nagae Iku",
-    img: "xgAlECj.png",
+    name: "Johnny Ridden's Zaku II HMT",
+    img: "LT2tVZh.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "VD"],
-      stage: ["st5"]
+      series: ["msv"]
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hinanawi Tenshi",
-    img: "tZLYivt.png",
+    name: "Zaku Cannon",
+    img: "2XQVedR.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kisume",
-    img: "VgJgaEf.png",
+    name: "Zaku Tank",
+    img: "8I5nO6V.png",
     opts: {
-      series: ["SA", "DS"],
-      stage: ["st1"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kurodani Yamame",
-    img: "sqgJ2St.png",
+    name: "High Mobility Psycommu System Zaku",
+    img: "B5xBahU.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st1"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Mizuhashi Parsee",
-    img: "lkoAJod.png",
+    name: "Gelgoog High Mobility Type",
+    img: "AEunejP.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st2"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hoshiguma Yuugi",
-    img: "tDO653L.png",
+    name: "Gelgoog HMT [Commander]",
+    img: "XBvgWmW.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st3"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Komeiji Satori",
-    img: "dup7Nt6.png",
+    name: "Johnny Ridden's Gelgoog HMT",
+    img: "9OfUTnU.png",
     opts: {
-      series: ["SA", "DS", "HM", "VD"],
-      stage: ["st4"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
-    img: "uQjbw1W.png",
+    name: "Gelgoog Cannon",
+    img: "H2I6mOs.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st4", "st5", "st6"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
-    img: "DfdaXPW.png",
+    name: "Agg",
+    img: "dIu6IsW.png",
     opts: {
-      series: ["SA", "soku", "DS", "HM", "VD"],
-      stage: ["st6"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Komeiji Koishi",
-    img: "wVCcens.png",
+    name: "Juaggu",
+    img: "Eu2zJUP.png",
     opts: {
-      series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Nazrin",
-    img: "EpHQbiY.png",
+    name: "Agg Guy",
+    img: "ArUEwd3.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st1", "st5"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Tatara Kogasa",
-    img: "kJbv4dc.png",
+    name: "Zogok",
+    img: "kG05Tje.png",
     opts: {
-      series: ["UFO", "TD", "DS", "HM"],
-      stage: ["st2", "ex"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kumoi Ichirin",
-    img: "Fyn5yVx.png",
+    name: "Perfect Zeong",
+    img: "aex1Nb8.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"]
+      series: ["msv"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Murasa Minamitsu",
-    img: "39KYpvW.png",
+    name: "Heavy Gundam",
+    img: "71JvKMo.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st4"]
+      series: ["msx"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Toramaru Shou",
-    img: "5yihisu.png",
+    name: "Act Zaku",
+    img: "6BbdYzL.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st5"]
+      series: ["msx"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hijiri Byakuren",
-    img: "2ppPxny.png",
+    name: "Gigan",
+    img: "GjFJw1H.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["msx"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Houjuu Nue",
-    img: "zL4S8Mj.png",
+    name: "Galbaldy Alpha",
+    img: "tukx2mz.png",
     opts: {
-      series: ["UFO", "DS", "TD", "HM", "VD"],
-      stage: ["st4", "st6", "ex"]
+      series: ["msx"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Himekaidou Hatate",
-    img: "LgvoTaJ.png",
+    name: "Zudah",
+    img: "QfwnMkW.png",
     opts: {
-      series: ["DS", "HM", "ISC"],
-      stage: ["ex"]
+      series: ["igloo1"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sunny Milk",
-    img: "VbqXiB6.png",
+    name: "Zudah Unit 1",
+    img: "kNQ4KRO.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["igloo1"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Luna Child",
-    img: "OBqgP48.png",
+    name: "Ball [Shark Teeth Type]",
+    img: "TKwNHtU.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["igloo1"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Star Sapphire",
-    img: "sNw61ap.png",
+    name: "Herbert von Kuspen's Gelgoog",
+    img: "2LJcUNM.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["igloo2"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kasodani Kyouko",
-    img: "sLiqEBA.png",
+    name: "Assault Guntank",
+    img: "CMOvMGf.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st2"]
+      series: ["igloo3"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Miyako Yoshika",
-    img: "6jq6eh6.png",
+    name: "Gundam Ground Type [08th MS Team]",
+    img: "Gl1b8BL.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st3", "st4"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kaku Seiga",
-    img: "090hLPL.png",
+    name: "Gundam Ground Type [GM Head]",
+    img: "tjLRxkG.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st4"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Soga no Tojiko",
-    img: "y0UXwFO.png",
+    name: "Gundam Ez8",
+    img: "sqkqGxW.png",
     opts: {
-      series: ["TD", "HM"],
-      stage: ["st5"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Mononobe no Futo",
-    img: "WTZ97LE.png",
+    name: "GM Ground Type",
+    img: "S8s583n.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st5"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Toyosatomimi no Miko",
-    img: "3Xiqd22.png",
+    name: "GM Sniper",
+    img: "8Wa7iQC.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Futatsuiwa Mamizou",
-    img: "gMpWdmA.png",
+    name: "GM Early Type",
+    img: "nQ8Ppvk.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hata no Kokoro",
-    img: "fxCGmUk.png",
+    name: "Guntank Mass Production Type",
+    img: "jh4EOi6.png",
     opts: {
-      series: ["book", "HM", "ULiL", "AoCF"],
-      stage: ["st6"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Wakasagihime",
-    img: "brWCLVx.png",
+    name: "Ball Type K",
+    img: "018ZkJg.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st1"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sekibanki",
-    img: "VAMLiJD.png",
+    name: "Zaku II R-04 Type",
+    img: "vzV8Fst.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st2"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Imaizumi Kagerou",
-    img: "qwwL0bB.png",
-    opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st3"]
-    }
+	name: "Gouf Custom",
+	img: "FRqAkdC.png",
+	opts: {
+	  series: ["08th"],
+	  timeline: ["uc"]
+	}
   },
   {
-    name: "Tsukumo Benben",
-    img: "vWNeMaH.png",
+    name: "Gouf Flight Type",
+    img: "7C9MzeL.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      series: ["08th"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Tsukumo Yatsuhashi",
-    img: "EJFQHQN.png",
+    name: "Pixy",
+    img: "4y14Dl1.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      series: ["pixy"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kijin Seija",
-    img: "16RUacj.png",
+    name: "Efreet",
+    img: "wfBQ3yJ.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st5", "st6"]
+      series: ["pixy"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
-    img: "Zl2tN7W.png",
+    name: "Blue Destiny Unit 1",
+    img: "IEwfoTi.png",
     opts: {
-      series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Horikawa Raiko",
-    img: "SLLEccR.png",
+    name: "Blue Destiny Unit 2",
+    img: "MZaDIwU.png",
     opts: {
-      series: ["DDC", "ISC", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Usami Sumireko",
-    img: "mc7ICW6.png",
+    name: "Blue Destiny Unit 2 [Nimbus Color]",
+    img: "wPxTLNp.png",
     opts: {
-      series: ["ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Seiran",
-    img: "0ra00WG.png",
+    name: "Blue Destiny Unit 3",
+    img: "QfeDrWF.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st1"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ringo",
-    img: "xQOsFlZ.png",
+    name: "Zaku II Cold Districts Type",
+    img: "P17RHYd.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st2"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Doremy Sweet",
-    img: "rGS7dyn.png",
+    name: "Efreet Custom",
+    img: "V4EAp8l.png",
     opts: {
-      series: ["LoLK", "AoCF", "VD"],
-      stage: ["st3", "ex"]
+      series: ["blued"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kishin Sagume",
-    img: "HLT338X.png",
+    name: "GM [White Dingo]",
+    img: "DtaCj6m.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st4"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Clownpiece",
-    img: "9Jje7ZQ.jpg",
+    name: "GM Cannon [White Dingo]",
+    img: "RIgV7rl.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st5"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Junko",
-    img: "NsfLZjY.jpg",
+    name: "Guncannon MPT [White Dingo]",
+    img: "RA85JhS.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st6", "ex"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hecatia Lapislazuli",
-    img: "EH3Ulol.png",
+    name: "GM Sniper II [White Dingo]",
+    img: "u6UbQKj.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["ex"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Eternity Larva",
-    img: "ql5KxJH.png",
+    name: "Visch Donahue's Gouf",
+    img: "mQoP8Yl.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st1"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sakata Nemuno",
-    img: "gYFhJ3Y.png",
+    name: "Visch Donahue's Gelgoog Ground Type",
+    img: "nMHwWEl.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st2"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Komano Aunn",
-    img: "wWUStkF.png",
+    name: "Rhinoceros",
+    img: "fg5Vv0m.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st3"]
+      series: ["dingo"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yatadera Narumi",
-    img: "wrPVhAo.png",
+    name: "Garret Schmitzer's Zaku I",
+    img: "FjTo2DN.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st4"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Nishida Satono",
-    img: "8w9gAy2.png",
+    name: "Zaku I Early Type [Midnight Fenrir]",
+    img: "lSwkyCQ.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Teireida Mai",
-    img: "DesAqAC.png",
+    name: "Zaku II [Midnight Fenrir]",
+    img: "mTkaXMk.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Matara Okina",
-    img: "icWvMyo.png",
+    name: "Gouf [Midnight Fenrir]",
+    img: "qEzglxe.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st6", "ex"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yorigami Shion",
-    img: "LenxXR4.png",
+    name: "Dom Funf",
+    img: "Sjv0BBP.png",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yorigami Joon",
-    img: "V9OznT1.png",
+    name: "Gundam 6th [Mudrock]",
+    img: "J1FVNpu.png",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ebisu Eika",
-    img: "Ke3316E.png",
+    name: "Gundam 6th [Mudrock] [Incomplete]",
+    img: "mcyGeUT.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st1"]
+      series: ["zeonic"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ushizaki Urumi",
-    img: "ru2vIIW.png",
+    name: "Gundam Ground Type",
+    img: "aQ1NzNc.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st2"]
+      series: ["lostwar"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Niwatari Kutaka",
-    img: "QTQt0ZL.png",
+    name: "GM Sniper II [Delta Team]",
+    img: "up8dQK2.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st3"]
+      series: ["lostwar"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kicchou Yachie",
-    img: "CzcIMxF.png",
+    name: "Gelgoog Ground Type",
+    img: "2xCxdqL.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st4"]
+      series: ["lostwar"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Joutouguu Mayumi",
-    img: "GxeziYO.png",
+    name: "Anavel Gato's Rick Dom",
+    img: "kCEmpQV.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st5"]
+      series: ["eispace"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Haniyasushin Keiki",
-    img: "Z4jclTi.png",
+    name: "Gundam 4th",
+    img: "01CmVxJ.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st6"]
+      series: ["blaze"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kurokoma Saki",
-    img: "H2v2GPy.png",
+    name: "Gundam 4th [Bst]",
+    img: "0PCIJc1.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["ex"]
+      series: ["blaze"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hieda no Akyuu",
-    img: "ogONuLZ.png",
+    name: "Gundam 5th",
+    img: "YsOKG0H.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["blaze"],
+      timeline: ["uc"]
     }
   },
   { 
-    name: "Tokiko",
-    img: "Y4maOc8.png", 
+    name: "Gundam 5th [Bst]",
+    img: "kM4zFi2.png", 
     opts: {
-      series: ["book"],
-      stage: [],
-      nameless: true
+      series: ["blaze"],
+      timeline: ["uc"]
     } 
   },
   {
-    name: "Reisen (Manga)",
-    img: "cWjCo2j.png",
+    name: "Mallette Sanguine's Act Zaku",
+    img: "JhIumXs.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["blaze"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Watatsuki no Toyohime",
-    img: "uEBxsEX.png",
+    name: "Full Armor Gundam [Thunderbolt]",
+    img: "lFcwnN9.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["tbolt"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Watatsuki no Yorihime",
-    img: "Txu2P7S.png",
+    name: "Psycho Zaku",
+    img: "OFKCDOG.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["tbolt"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Maribel Hearn",
-    img: "XUI9vPo.png",
+    name: "Zaku II FZ",
+    img: "LHDTBUY.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Usami Renko",
-    img: "1P5EXRt.png",
+    name: "Zaku II FZ [Commander Type]",
+    img: "JYFrcQn.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ibaraki Kasen",
-    img: "dQHnPPe.png",
+    name: "Zaku II FZ [Fritz Helmet]",
+    img: "WwSb6Fp.png",
     opts: {
-      series: ["book", "ULiL", "AoCF"],
-      stage: ["st5"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Motoori Kosuzu",
-    img: "jEsJJo8.png",
+    name: "Rick Dom II",
+    img: "NZKkJPt.png",
     opts: {
-      series: ["book"],
-      stage: []
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hakurei Reimu (PC-98)",
-    img: "IZsGAMS.png",
+    name: "Gelgoog J",
+    img: "Xcq60aD.png",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
+      series: ["0080"],
+      timeline: ["uc"],
     }
   },
   {
-    name: "Shingyoku (Female)",
-    img: "KuPiR2k.png",
+    name: "Kampfer",
+    img: "qlVO5zQ.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st1"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Mima",
-    img: "odH03t2.png",
+    name: "Hygogg",
+    img: "KKc7GzH.png",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "MS"],
-      stage: ["st3", "st5", "st6"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Elis",
-    img: "ytnL1xd.png",
+    name: "Z'Gok E",
+    img: "RM6UvgE.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kikuri",
-    img: "fX2Kqik.png",
+    name: "Alex",
+    img: "ILkStqY.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sariel",
-    img: "Wyc7YFw.png",
+    name: "Alex [Chobham Armor Type]",
+    img: "mVBWNIt.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Konngara",
-    img: "dg9jLHv.png",
+    name: "Guncannon Mass Production Type",
+    img: "X4LmMfx.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Rika",
-    img: "02Xb4pU.png",
+    name: "GM Cold Districts Type",
+    img: "XF2owah.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["st1", "ex"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Meira",
-    img: "p529JgT.png",
+    name: "GM Command",
+    img: "uhDuooA.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["st2"]
+      series: ["0080"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kirisame Marisa (PC-98)",
-    img: "wxE7cBm.png",
+    name: "GM Sniper II",
+    img: "HwauSp7.png",
     opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
+      series: ["0080"],
+      timeline: ["uc"],
     }
   },
-  { name: "Ellen", img: "3iNNL0c.png", opts: {
-      series: ["PoDD"],
-      stage: []
+  { name: "Gundam 7th", 
+    img: "8F0jUbj.png", 
+	opts: {
+      series: ["0081"],
+      timeline: ["uc"]
     } },
   {
-    name: "Kotohime",
-    img: "kRSGtpq.png",
+    name: "Full Armor Gundam 7th",
+    img: "lu47wJL.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kana Anaberal",
-    img: "rBvKMk5.png",
+    name: "Heavy Armed FA Gundam 7th",
+    img: "NQd6rVP.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Asakura Rikako",
-    img: "VIf5gUK.png",
+    name: "G-Line Standard Armor",
+    img: "NIlAFI1.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kitashirakawa Chiyuri",
-    img: "tZFBycy.png",
+    name: "G-Line Light Armor",
+    img: "fGIhPeG.png",
     opts: {
-      series: ["PoDD"],
-      stage: ["st5"]
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Okazaki Yumemi",
-    img: "c9rnG3n.png",
+    name: "G-Line Assault Armor",
+    img: "LZ0r3XS.png",
     opts: {
-      series: ["PoDD"],
-      stage: ["st6"]
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Ruukoto",
-    img: "dko67SJ.png",
+    name: "Efreet Nacht",
+    img: "FcHD66S.png",
     opts: {
-      series: ["PoDD"],
-      stage: []
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Orange",
-    img: "m8wXE5U.png",
+    name: "Erik Blanke's Zaku I",
+    img: "O0uxrQl.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st1"]
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Kurumi",
-    img: "0rvq1ph.png",
+    name: "Zaku II Desert Version",
+    img: "Ee0wCQ8.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st2"]
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Elly",
-    img: "iIPftHn.png",
+    name: "Erik Blanke's Gelgoog HMT",
+    img: "IODVk78.png",
     opts: {
-      series: ["LLS"],
-      stage: ["st3"]
+      series: ["0081"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yuuka (PC-98)",
-    img: "ivUSwxp.png",
+    name: "Slave Wraith",
+    img: "d6MFFkn.png",
     opts: {
-      series: ["LLS", "MS"],
-      stage: ["st5", "st6"],
+      series: ["mlink"],
+      timeline: ["uc"],
       pc98: true
     }
   },
   {
-    name: "Mugetsu",
-    img: "bYA9E16.png",
+    name: "Fred Reber's Pixy",
+    img: "67PNoHG.png",
     opts: {
-      series: ["LLS"],
-      stage: ["ex"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Gengetsu",
-    img: "TIOTtV9.png",
+	name: "Mervin Harriot's Guncannon Heavy Type D",
+	img: "jPYzgBd.png",
+	opts: {
+	  series: ["mlink"],
+	  timeline: ["uc"]
+	 }
+  },
+  {
+    name: "GM Ground Type [Wraith]",
+    img: "W57IJZH.png",
     opts: {
-      series: ["LLS"],
-      stage: ["ex"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Sara",
-    img: "2QUbCrU.png",
+    name: "GM Ground Type [Wraith/Weapon Pack]",
+    img: "MVCtHUN.png",
     opts: {
-      series: ["MS"],
-      stage: ["st1"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Louise",
-    img: "nDM5aB6.png",
+    name: "Pale Rider [Ground Type]",
+    img: "OKjHROv.png",
     opts: {
-      series: ["MS"],
-      stage: ["st2", "st4"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Alice (PC-98)",
-    img: "KaBuRTW.png",
+    name: "Pale Rider [Space Type]",
+    img: "fYUEESh.png",
     opts: {
-      series: ["MS"],
-      stage: ["st3", "ex"],
-      pc98: true
+      series: ["mlink"],
+      timeline: ["uc"],
+	}
+  },
+  {
+    name: "Doug Schneid's Efreet",
+    img: "qbHykMX.png",
+    opts: {
+      series: ["mlink"],
+      timeline: ["uc"]
+    }
+  },
+  { name: "Zaku II [Marchosias]", 
+    img: "iS9rRPR.png", 
+	opts: {
+      series: ["mlink"],
+      timeline: ["uc"]
+    } 
+  },
+  {
+    name: "Vincent Gleissner's Zaku II",
+    img: "kBpLDYa.png",
+    opts: {
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Yuki",
-    img: "FfcmDgp.png",
+    name: "Vincent Gleissner's Zaku II HMT",
+    img: "LgWkrXK.png",
     opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    }
-  },
-  { name: "Mai", img: "r6w7TX1.png", opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    } },
-  {
-    name: "Yumeko",
-    img: "PcPqkdO.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st5"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Shinki",
-    img: "gPE95S7.png",
+    name: "Zaku II FZ [Fritz Helm] [Liberio Lincke]",
+    img: "3guvhQf.png",
     opts: {
-      series: ["MS"],
-      stage: ["st6"]
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Mimi-chan",
-    img: "zBl2zlv.png",
+    name: "Bishop",
+    img: "gOW4RJj.png",
     opts: {
-      series: ["PoDD"],
-      stage: [],
-      notgirl: true 
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Unzan",
-    img: "r5eWREh.png",
+    name: "Guy Helmuth's Rick Dom II",
+    img: "MmlTHyJ.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"],
-      notgirl: true
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Genji",
-    img: "LoUqOuH.png",
+    name: "Vincent Gleissner's Gelgoog HMT",
+    img: "hXigXwP.png",
     opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: [],
-      notgirl: true 
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Shingyoku (Male)",
-    img: "a5uwlgN.png",
+    name: "Todesritter",
+    img: "0IWYuJK.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st1"],
-      notgirl: true 
+      series: ["mlink"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "YuugenMagan",
-    img: "IOW8GdU.png",
+    name: "Gundam GP00",
+    img: "i0Q2SuU.png",
     opts: {
-      series: ["HRtP"],
-      stage: ["st3"],
-      notgirl: true 
+      series: ["phantom"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Evil Eye Sigma",
-    img: "rAFUMwE.png",
+    name: "Gundam GP01",
+    img: "4UXzzl0.png",
     opts: {
-      series: ["SoEW"],
-      stage: ["ex"],
-      notgirl: true 
+      series: ["0083"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Great Catfish",
-    img: "BgRi9Oh.png",
+    name: "Gundam GP01 Full Burnern",
+    img: "tGKktdI.png",
     opts: {
-      series: ["soku", "AoCF"],
-      stage: ["st6"],
-      notgirl: true,
-      nameless: true
+      series: ["0083"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Morichika Rinnosuke",
-    img: "ITUhsGj.png",
+    name: "Gundam GP02",
+    img: "bAdcogQ.png",
     opts: {
-      series: ["book", "HM"],
-      stage: [],
-      notgirl: true 
+      series: ["0083"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Fortune Teller",
-    img: "BYot23O.png",
+    name: "Gundam GP03 Stamen",
+    img: "ypYqNLh.png",
     opts: {
-      series: ["book"],
-      stage: [],
-      notgirl: true,
-      nameless: true
+      series: ["0083"],
+      timeline: ["uc"]
     }
   },
   {
-    name: "Hisoutensoku",
-    img: "P4JZ2it.png",
+    name: "Gundam GP03",
+    img: "i571Mci.png",
     opts: {
-      series: ["soku"],
-      stage: [],
-      notgirl: true 
+      series: ["0083"],
+      timeline: ["uc"]
     }
-  }
+  },
+  {
+    name: "GM Type C [Desert Color]",
+    img: "GG3JbYv.png",
+    opts: {
+      series: ["0083"],
+      timeline: ["uc"]
+    }
+  },
+  {
+    name: "GM Type C",
+    img: "ZyPw37G.png",
+    opts: {
+      series: ["0083"],
+      timeline: ["uc"]
+    }
+  },
+  {
+    name: "Powered GM",
+    img: "KulilIz.png",
+    opts: {
+      series: ["0083"],
+      timeline: ["uc"]
+    }
+  },
+  {
+	name: "GM Custom",
+	img: "sc0f8eu.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM Cannon II",
+	img: "jcs6AYL.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2 [Federation]",
+	img: "qS1UFus.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Anavel Gato's Gelgoog",
+	img: "K2xjdZp.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2",
+	img: "SgiZ6s7.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2 [Commander Type]",
+	img: "dR1HFYN.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2 [Sand Color]",
+	img: "0WnbDIh.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2 [Neuen Bitter]",
+	img: "URzLp4H.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku II F2 [Kimberlide Base]",
+	img: "UOnzNKJ.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dom Tropen",
+	img: "CAEpsBt.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dom Tropen [Kimberlide Base]",
+	img: "L1NxNmF.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Xamel",
+	img: "xau1WtP.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gelgoog M",
+	img: "P1dthNq.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gelgoog M [Commander]",
+	img: "aPitIu1.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gerbera Tetra",
+	img: "C1N1NIc.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dra-C",
+	img: "5FCruTx.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Neue Ziel",
+	img: "D4ajtEL.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM Quel",
+	img: "JiXvKRP.png",
+	opts: {
+	  series: ["0083"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zero G-R",
+	img: "24uVrQr.png",
+	opts: {
+	  series: ["cda"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Schnee Weiss",
+	img: "kzjgWyY.png",
+	opts: {
+	  series: ["cda"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zeta Gundam",
+	img: "PYUqqhC.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hyaku-Shiki",
+	img: "LB9Lltt.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Methuss",
+	img: "fym9NPZ.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-II [AEUG]",
+	img: "Vt9gyUr.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-II [Titans]",
+	img: "A0UKOtJ.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Super Gundam",
+	img: "q1KX3Yj.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  
+  {
+	name: "Rick Dias [Red Color]",
+	img: "1r3jDDQ.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Rick Dias",
+	img: "M4O6qjG.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dijeh",
+	img: "8FnEBQL.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Nemo",
+	img: "PgWwtQx.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM II [AEUG]",
+	img: "ci7UMiK.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM II [Federation]",
+	img: "wDPMlwR.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hizack [Titans]",
+	img: "Mr4XFpy.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hizack [Federation]",
+	img: "znXmvx1.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hizack Custom",
+	img: "gdFUN6s.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Marasai",
+	img: "5jAZSJX.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Barzam",
+	img: "cWc9M4W.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hambrabi",
+	img: "jKGxYwX.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gabthley",
+	img: "20TF8Yb.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Byarlant",
+	img: "qbOoa0Y.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Baund Doc",
+	img: "D34pH3q.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Messala",
+	img: "6Sr2gyd.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Bolinoak Sammahn",
+	img: "qd3ShXx.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Palace Athene",
+	img: "x3O9pfw.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "The O",
+	img: "qaQ1QAz.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Galbaldy Beta",
+	img: "Cde27k0.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Asshimar",
+	img: "vvv3cgf.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaplant",
+	img: "X1jPfsD.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Psyco Gundam",
+	img: "nvsgY4i.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaza-C",
+	img: "g2HTOwo.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Qubeley",
+	img: "MOdQNd8.png",
+	opts: {
+	  series: ["zeta"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Haman Karn's Gaza-C",
+	img: "IEV0rsh.png",
+	opts: {
+	  series: ["zeta2"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Z II",
+	img: "jNw6XG3.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zeta Gundam Mass Production Type",
+	img: "ffBP4oR.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hyaku-Shiki Kai",
+	img: "IU5pic3.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hyaku-Shiki Kai Mass Production Type",
+	img: "79H5Rq3.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-III",
+	img: "aZ81es1.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Nemo III",
+	img: "Xz8lDZq.png",
+	opts: {
+	  series: ["zmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zeta Gundam III",
+	img: "7IjbKoN.png",
+	opts: {
+	  series: ["0087"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-1 [Hazel]",
+	img: "OX5VQ90.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-1 [Hazel] Full Armor",
+	img: "kwLX8Br.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-1 [Hazel Custom]",
+	img: "GxsRlU9.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-1 [Hazel-Rah]",
+	img: "V0ICG5z.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-1 [Hazel Owsla]",
+	img: "XfLfLgz.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "[Hazel Owsla] Fiver II Form",
+	img: "3J5vySZ.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hizack Cannon [Armor Unit]",
+	img: "gvEBxAl.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Prototype Asshimar TR-3 [Kehaar]",
+	img: "AttB4p2.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "TR-3 [Kehaar] Gravity Type",
+	img: "iHIsgxc.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Rosette [Dandelion Core Module]",
+	img: "NwkUTqt.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "TR-4 [Dandelion]",
+	img: "wSRaPxt.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaplant TR-5 [Fiver]",
+	img: "Ib6XeTJ.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaplant TR-5 [Hrairoo] Unit 1",
+	img: "VWoWXl1.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "TR-5 [Advanced Hrairoo] Unit 1",
+	img: "H4hdJJF.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-6 [Woundwort]",
+	img: "YdjTDey.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-6 [Hyzenthlay II-Rah]",
+	img: "fX6LwBH.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-6 [Queenly] Full Armor",
+	img: "gETe1hi.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam TR-6 [Inle]",
+	img: "MJBWmXT.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Rick Dias [Stutzer]",
+	img: "LZhzUiW.png",
+	opts: {
+	  series: ["aoz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "S Gundam",
+	img: "0S1kVyd.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Ex-S Gundam",
+	img: "lT5iu0P.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Deep Striker",
+	img: "6qzxoCm.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zeta plus [Test Type]",
+	img: "MpiZIYM.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zeta plus",
+	img: "ucmHCt0.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hummingbird",
+	img: "jK4rzdv.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "FAZZ",
+	img: "mFA3LK2.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Nero",
+	img: "vFkQDc4.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Nouvelle GM III",
+	img: "ZSKE8Ij.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-V",
+	img: "pLUOnUS.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Xeku Eins",
+	img: "aDutEWP.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Xeku Zwei",
+	img: "ccC9XiQ.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaza-E",
+	img: "ZcsEX2D.png",
+	opts: {
+	  series: ["sentinel"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ZZ Gundam",
+	img: "J1SG8Wz.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Full Armor ZZ Gundam",
+	img: "hVgkT6i.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM III",
+	img: "oxSyi6N.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaza-D",
+	img: "minHgAP.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Ga-Zowmn",
+	img: "lMMYk2d.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Galluss J",
+	img: "MEwwVxe.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zssa",
+	img: "YJNTysp.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Hamma-Hamma",
+	img: "cO0cpvN.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "R-Jarja",
+	img: "o6jMxAY.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Bawoo",
+	img: "6ZS0CPr.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Bawoo Mass Production Type",
+	img: "jEAGbBN.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dreissen",
+	img: "frXlzWI.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Sturm Dias",
+	img: "N78jYfd.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku III",
+	img: "P1nGhpQ.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku III Custom",
+	img: "nJtvVcA.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Regelgu",
+	img: "tfNKBkG.png",
+	opts: {
+	  series: ["zz"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+    name: "Jamru Fin",
+    img: "1BDb2r5.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Gaz-R",
+    img: "csvGIr9.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Gaz-L",
+    img: "9aHIY4d.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Geymalk",
+    img: "KGGzreP.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Elpeo Ple's Qubeley Mk-II",
+    img: "ixNTgKO.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Ple Two's Qubeley Mk-II",
+    img: "mKQrgut.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Qubeley Mass Production Type",
+    img: "5mddR2a.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Doven Wolf",
+    img: "ucl8ZUG.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Doven Wolf [Commander Type]",
+    img: "awO6sZD.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Psyco Gundam Mk-II",
+    img: "TyOyDqs.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Quin Mantha",
+    img: "jbuX2Nq.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Dwadge",
+    img: "SIAW2GW.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Dwadge Custom",
+    img: "zNxDzCD.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Gemon Bajack's Geze",
+    img: "AOyWoSc.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Yazan Gable's Geze",
+    img: "OY20BLb.png",
+    opts: {
+      series: [ "zz" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Johnny Ridden's Zaku II",
+    img: "LIwK3G3.png",
+    opts: {
+      series: [ "msvr" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Shin Matsunaga's Zaku II",
+    img: "49g26sL.png",
+    opts: {
+      series: [ "msvr" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Zaku II High Mobility Ground Type",
+    img: "XPjWUa7.png",
+    opts: {
+      series: [ "msvr" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Anavel Gato's Zaku II HMT",
+    img: "6QeoYXB.png",
+    opts: {
+      series: [ "msvr" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Gyan Eos",
+    img: "2BeU5CX.png",
+    opts: {
+      series: [ "msvr" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Johnny Ridden's Gelgoog Custom HMT",
+    img: "vbAiIoB.png",
+    opts: {
+      series: [ "msvr2" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Ingrid O's Gaplant",
+    img: "8ydcaKo.png",
+    opts: {
+      series: [ "msvr2" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Nu Gundam",
+    img: "2oewA9Z.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Re-GZ",
+    img: "D5CSRQn.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Jegan",
+    img: "1nql1Cx.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Sazabi",
+    img: "G5rzMyB.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Gyunei Guss' Jagd Doga",
+    img: "oTkMk96.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Quess Air's Jagd Doga",
+    img: "RKhw5BH.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Alpha Azieru",
+    img: "TyqMuPN.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Geara Doga",
+    img: "NRXTcLU.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Geara Doga [Commander Type]",
+    img: "3wo6i7N.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Rezin Schnyder's Geara Doga",
+    img: "Zl0TFzW.png",
+    opts: {
+      series: [ "cca" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Hi-Nu Gundam",
+    img: "48UQhoq.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Nu Gundam [Double Fin Funnels]",
+    img: "qQIaNqg.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Nu Gundam [Heavy Weapon System]",
+    img: "QYZ63Gi.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Re-GZ Custom",
+    img: "10Fltay.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Nightingale",
+    img: "X652DSK.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Psyco Doga",
+    img: "wab2I4R.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Beta Azieru",
+    img: "pTUyJc9.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Geara Doga Custom",
+    img: "h9r2scp.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Geara Doga [Psycommu Test Type]",
+    img: "lteHcXH.png",
+    opts: {
+      series: [ "ccamsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Nu Gundam Mass Production Type",
+    img: "kabsHpO.png",
+    opts: {
+      series: [ "mmsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Full Armor Gundam Mk-III",
+    img: "o0XHtR8.png",
+    opts: {
+      series: [ "mmsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "Full Armor Hyaku-Shiki Kai",
+    img: "Yf0AQ6M.png",
+    opts: {
+      series: [ "mmsv" ],
+      timeline: ["uc"]
+    }
+  },
+{
+    name: "ZZ Gundam Mass Production Type",
+    img: "5l8P2wa.png",
+    opts: {
+      series: [ "mmsv" ],
+      timeline: ["uc"]
+    }
+  },
+  {
+	name: "Psyco Gundam Mass Production Type",
+	img: "m08SOm3.png",
+	opts: {
+	  series: ["mmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Unicorn Gundam [Unicorn Mode]",
+	img: "EXSAIRa.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Unicorn Gundam [Destroy Mode]",
+	img: "79fgfC4.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Unicorn Gundam [Destroy Mode] [Green]",
+	img: "TJdosJb.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Unicorn Gundam [Crystallized]",
+	img: "tX4x1bA.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "FA Unicorn Gundam [Unicorn Mode]",
+	img: "tXCRRJ0.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "FA Unicorn Gundam [Destroy Mode]",
+	img: "S7LKqhh.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Silver Bullet",
+	img: "M0qT4dt.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Banshee [Unicorn Mode]",
+	img: "aguBQ7F.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Banshee [Destroy Mode",
+	img: "Ms9IHft.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Banshee Norn [Unicorn Mode]",
+	img: "AcgKcEh.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Banshee Norn [Destroy Mode]",
+	img: "LLMfUQv.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Banshee [Green]",
+	img: "pKMAeIV.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL",
+	img: "2od22lm.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL [Commander Type]",
+	img: "yv5mhQ3.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL Type C [GR]",
+	img: "d7C3otR.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL Type C [GR] [Defenser b-Unit]",
+	img: "2bcla48.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Delta Plus",
+	img: "NKkfMgi.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM II [Ground Type]",
+	img: "NPHJvrQ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM II Semi-Striker",
+	img: "LZBLQh5.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Nemo [Ground Type]",
+	img: "Al65cNF.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM III [Ground Type]",
+	img: "IcZ2iTu.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jegan Type D",
+	img: "I3GCBT6.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jegan [ECOAS Type]",
+	img: "X2Y0Eey.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jegan Type A2 [GR]",
+	img: "I6Ft94U.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jegan [High Mobility Type]",
+	img: "yT6vZjJ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Prototype Stark Jegan",
+	img: "1TT0WR2.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Stark Jegan",
+	img: "WV9gzCE.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jesta",
+	img: "1TeEzRP.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jesta Cannon",
+	img: "AF1sKBw.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Anksha",
+	img: "PURzb4V.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Byarlant Custom",
+	img: "TR45CFG.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Guncannon Detector",
+	img: "rAxUbix.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Loto",
+	img: "8tBkK9K.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Sinanju",
+	img: "pAA1IP0.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Neo Zeong",
+	img: "V6NNqwM.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Doga [Sleeves]",
+	img: "XFDRGVa.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Doga [Commander] [Sleeves]",
+	img: "WhNzncP.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Doga [Heavy Armed] [Sleeves]",
+	img: "gg9yWbh.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Zulu",
+	img: "oJ5g5Po.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Zulu [Commander Type]",
+	img: "HGfCb5d.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Geara Zulu [Guards Type]",
+	img: "NtHZejJ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Angelo's Geara Zulu [Guards Type]",
+	img: "SaGBaJM.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zee Zulu",
+	img: "YZQE6Cd.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Rozen Zulu",
+	img: "3LzO7GQ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Jagd Doga [Sleeves]",
+	img: "SuIVDrZ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Kshatriya",
+	img: "wDimbb9.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Kshatriya Repaired",
+	img: "V2Rl8px.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaza-D [Sleeves]",
+	img: "RxNNpzV.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Ga-Zowmn [Sleeves]",
+	img: "zS96kRK.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dreissen",
+	img: "2ZM3HqZ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku III",
+	img: "lAslDnk.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Galluss K",
+	img: "gN21Od3.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Sturm Galluss",
+	img: "J899dC4.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zssa [Sleeves]",
+	img: "3saNqq8.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Bawoo MPT [Sleeves]",
+	img: "dZn5tg7.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Capule [Sleeves]",
+	img: "JcocD5s.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku I Sniper Type",
+	img: "aXc3Rxq.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Desert Zaku [Zeon Remnants]",
+	img: "BbEscjb.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zaku Cannon [Zeon Remnants]",
+	img: "IctYg7N.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Efreet Schneid",
+	img: "xeOUetn.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dom Tropen [Zeon Remnants]",
+	img: "H1PNpPE.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dwadge [Zeon Remnants]",
+	img: "fWbKsAD.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gigan [Sleeves]",
+	img: "nRVivDJ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gelgoog [Sleeves]",
+	img: "m2AKMgQ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Desert Gelgoog [Zeon Remnants]",
+	img: "WDHKNB5.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Regelgu [Sleeves]",
+	img: "sQGqsco.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dra-C [Sleeves]",
+	img: "7BmmO3F.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Juaggu [Zeon Remnants]",
+	img: "KRHRYWn.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Z'Gok [Zeon Remnants]",
+	img: "eJpFa4Y.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Zogok [Zeon Remnants]",
+	img: "f3N6VSJ.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Marasai [Zeon Remnants]",
+	img: "Ki28E9n.png",
+	opts: {
+	  series: ["unicorn"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Phenex [Unicorn Mode]",
+	img: "nCylq69.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Phenex [Destroy Mode]",
+	img: "wCFvsKB.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Delta Gundam",
+	img: "Nr9iAcY.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Delta Kai",
+	img: "BSvtpLX.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Sinanju Stein",
+	img: "HLUQjPL.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Silver Bullet [Funnel Test Type]",
+	img: "qofLIkm.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Byarlant Custom 02",
+	img: "X0GSCqu.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL Type C [Defenser a-Unit]",
+	img: "f3M9zj3.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL Type C [GR] [Defenser a-Unit]",
+	img: "Kvnw1G4.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "ReZEL Type C [Defenser b-Unit]",
+	img: "VZdPMuZ.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Rebawoo",
+	img: "AADLdga.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Doven Wolf [Sleeves]",
+	img: "cNKPjPl.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Doven Wolf [Sleeves] [Commander]",
+	img: "GTMtiMD.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Full Frontal's Geara Doga",
+	img: "3YZYzjy.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Angelo Sauper's Geara Doga",
+	img: "QgCc6ah.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Krake Zulu",
+	img: "tY7X3qh.png",
+	opts: {
+	  series: ["ucmsv"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Xi Gundam",
+	img: "38WUM8I.png",
+	opts: {
+	  series: ["hf"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Messer",
+	img: "GZ6l3l5.png",
+	opts: {
+	  series: ["hf"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Penelope",
+	img: "zoAEizS.png",
+	opts: {
+	  series: ["hf"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gustav Karl",
+	img: "Ksmir3l.png",
+	opts: {
+	  series: ["hf"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "G-Self [Perfect Pack]",
+	img: "GMzroCq.png",
+	opts: {
+	  series: ["greco"],
+	  timeline: ["reguild"]
+	}
+  },
+  {
+	name: "Hot Scramble Gundam",
+	img: "IWQQfaF.png",
+	opts: {
+	  series: ["gbftry"],
+	  timeline: ["bs"]
+	}
+  },
+  {
+	name: "GM Striker",
+	img: "PneebXu.png",
+	opts: {
+	  series: ["hog"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam GP02 [MLRS Type]",
+	img: "PetZS65.png",
+	opts: {
+	  series: ["hog"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Dom Cannon Single Gun Type",
+	img: "3GUyyd3.png",
+	opts: {
+	  series: ["hog"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Saikoro Gundam",
+	img: "7fO04TS.png",
+	opts: {
+	  series: ["gacha"],
+	  timeline: ["sdg"]
+	}
+  },
+  {
+	name: "Tornado Gundam",
+	img: "MVP12nU.png",
+	opts: {
+	  series: ["sdggx"],
+	  timeline: ["sdg"]
+	}
+  },
+  {
+	name: "Zanny",
+	img: "Bf8BLKl.png",
+	opts: {
+	  series: ["other"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Psyco Gundam Mk-III",
+	img: "FdyM6B1.png",
+	opts: {
+	  series: ["other"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-II Prototype Unit 0",
+	img: "JqhjAd7.png",
+	opts: {
+	  series: ["gihren"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gerbera Tetra Custom",
+	img: "yJ7Gt3h.png",
+	opts: {
+	  series: ["gihren"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "GM Guard Custom",
+	img: "fhUEvt1.png",
+	opts: {
+	  series: ["botb"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Phoenix Gundam",
+	img: "5A8dgqq.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Phoenix Gundam [Power Unleashed]",
+	img: "kYrFWQe.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Phoenix Zero",
+	img: "pbN2hBB.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Phoenix Zero One",
+	img: "aadNd61.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "NT-X",
+	img: "4qko49s.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Great Zeong",
+	img: "EHlCH6r.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gaplant Custom",
+	img: "uwVNcmJ.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Sisquiede",
+	img: "juFG5ZD.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gundam Mk-IV",
+	img: "saLM7M8.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Titania",
+	img: "9b4vZmE.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Gyan Custom",
+	img: "bsInRVy.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Neue Ziel II",
+	img: "cxQIUHg.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["uc"]
+	}
+  },
+  {
+	name: "Haro",
+	img: "ARyZX6a.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Psycho Haro",
+	img: "EplDeb0.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Halphas Gundam",
+	img: "p6F3RK4.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Halphas Bose Halberd",
+	img: "rantSof.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
+  {
+	name: "Master Phoenix",
+	img: "18VZVKE.png",
+	opts: {
+	  series: ["ggen"],
+	  timeline: ["ggen"]
+	}
+  },
 ];
