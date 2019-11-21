@@ -57,11 +57,11 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by Stage Enemy Appearances",
-    key: "stage",
-    tooltip: "Check this to restrict to characters that appear in certain stages as enemies.",
+    name: "Filter by Timeline",
+    key: "timeline",
+    tooltip: "Check this to restrict to suits that appear in certain timelines.",
     checked: false,
-    sub: [ { name: "Stage 1", key: "st1" }, { name: "Stage 2", key: "st2" }, { name: "Stage 3", key: "st3" }, { name: "Stage 4", key: "st4" }, { name: "Stage 5/Penultimate", tooltip: "Stage 4 in 5-stage games, and Stage 8 in 9-stage games.", key: "st5" }, { name: "Stage 6/Final", key: "st6" }, { name: "Stage EX/Phantasm", key: "ex" }
+    sub: [ { name: "Universal Century", tooltip: "OG timeline", key: "uc" }, { name: "Future Century", tooltip: "G Gundam", key: "fc" }, { name: "After Colony", tooltip: "Wing", key: "ac" }, { name: "After War", tooltip: "Gundam X", key: "aw" }, { name: "Cosmic Era", tooltip: "SEED", key: "ce" }, { name: "Anno Domini", tooltip: "00 series", key: "ad" }, { name: "Reguild Century", tooltip: "G-Reco", key: "reguild" }, { name: "Post Disaster", tooltip: "IBO", key: "pd" }, { name: "Build Series", key: "bs"}, { name: "SD Gundam", key: "sdg"}, { name: "G Generation Series", key: "ggen"}
     ]
   },
   {
