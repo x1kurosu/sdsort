@@ -13,7 +13,7 @@ const dataSet = {};
 /** 
  * Data set version, in YYYY-MM-DD form.
  * 
- * @example '2018-02-20'
+ * @example '2019-11-21'
 */
 let dataSetVersion = '';
 
