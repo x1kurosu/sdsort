@@ -9,39 +9,39 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
     { name: "Mobile Suit Gundam", tooltip: "0079", key: "0079" },
-	  { name: "The Origin", tooltip: "Char", key: "msgo" },
+    { name: "The Origin", tooltip: "Char", key: "msgo" },
     { name: "MSV", tooltip: "Variations", key: "msv" },
-	  { name: "MS-X", tooltip: "PEZN", key: "msx" },
+    { name: "MS-X", tooltip: "PEZN", key: "msx" },
     { name: "MS IGLOO", tooltip: "The Hidden One Year War", key: "igloo1" },
-	  { name: "MS IGLOO Apocalypse 0079", tooltip: "big rang", key: "igloo2" },
+    { name: "MS IGLOO Apocalypse 0079", tooltip: "big rang", key: "igloo2" },
     { name: "MS IGLOO 2", tooltip: "The Gravity Front", key: "igloo3" },
-	  { name: "08th MS Team", tooltip: "08th MS Team", key: "08th" },
-	  { name: "Cross Dimension 0079", tooltip: "SDCS Efreet when", key: "pixy" },
-	  { name: "The Blue Destiny", tooltip: "Blue", key: "blued" },
+    { name: "08th MS Team", tooltip: "08th MS Team", key: "08th" },
+    { name: "Cross Dimension 0079", tooltip: "SDCS Efreet when", key: "pixy" },
+    { name: "The Blue Destiny", tooltip: "Blue", key: "blued" },
     { name: "Rise from the Ashes", tooltip: "dreamcast", key: "dingo" },
-	  { name: "Zeonic Front", tooltip: "mudrock", key: "zeonic" },
-	  { name: "Lost War Chronicles", tooltip: "Delta Team", key: "lostwar" },
+    { name: "Zeonic Front", tooltip: "mudrock", key: "zeonic" },
+    { name: "Lost War Chronicles", tooltip: "Delta Team", key: "lostwar" },
     { name: "Encounters in Space", tooltip: "lone dom", key: "eispace" },
-	  { name: "Space Beyond the Blaze", tooltip: "4th or 5th?", key: "blaze" },
+    { name: "Space Beyond the Blaze", tooltip: "4th or 5th?", key: "blaze" },
     { name: "Thunderbolt", tooltip: "Atlas Gundam", key: "tbolt" },
-	  { name: "War in the Pocket", tooltip: "0080", key: "0080" },
-	  { name: "Battlefield Record U.C. 0081", tooltip: "efreet nacht", key: "0081" },
+    { name: "War in the Pocket", tooltip: "0080", key: "0080" },
+    { name: "Battlefield Record U.C. 0081", tooltip: "efreet nacht", key: "0081" },
     { name: "Missing Link", tooltip: "Pale Rider", key: "mlink" },	  
     { name: "Phantom Bullets", tooltip: "GP00", key: "phantom" },
-	  { name: "Stardust Memory", tooltip: "0083", key: "0083" }, 
+    { name: "Stardust Memory", tooltip: "0083", key: "0083" }, 
     { name: "Char's Deleted Affair", tooltip: "uh oh", key: "cda" },
     { name: "Mobile Suit Zeta Gundam", tooltip: "Zeta", key: "zeta" },
     { name: "A New Translation", tooltip: "retcon", key: "zeta2" },
-	  { name: "Z-MSV", tooltip: "zeta variations", key: "zmsv" },
+    { name: "Z-MSV", tooltip: "zeta variations", key: "zmsv" },
     { name: "Green Divers", tooltip: "The Neo Experience", key: "0087" },	
-	  { name: "Advance of Zeta", tooltip: "AoZ", key: "aoz" },
+    { name: "Advance of Zeta", tooltip: "AoZ", key: "aoz" },
     { name: "Gundam Sentinel", tooltip: "hummingbird", key: "sentinel" },	  
     { name: "Mobile Suit ZZ Gundam", tooltip: "Double Zeta", key: "zz" },
     { name: "MSV-R", tooltip: "zakus", key: "msvr" },
-	  { name: "The Return of Johnny Ridden", tooltip: "MSV-R", key: "msvr2" },	  
+    { name: "The Return of Johnny Ridden", tooltip: "MSV-R", key: "msvr2" },	  
     { name: "Char's Counterattack", tooltip: "CCA", key: "cca" },
     { name: "CCA-MSV", tooltip: "hi-nu sdcs when", key: "ccamsv" },
-	  { name: "M-MSV", tooltip: "missing variations", key: "mmsv" },
+    { name: "M-MSV", tooltip: "missing variations", key: "mmsv" },
     { name: "Mobile Suit Gundam Unicorn", tooltip: "UC", key: "unicorn" },
     { name: "UC-MSV", tooltip: "delta", key: "ucmsv" },
     { name: "Hathaway's Flash", tooltip: "hg messer when", key: "hf" },	  
@@ -64,7 +64,6 @@ dataSet[dataSetVersion].options = [
     sub: [ { name: "Universal Century", tooltip: "OG timeline", key: "uc" }, { name: "Future Century", tooltip: "G Gundam", key: "fc" }, { name: "After Colony", tooltip: "Wing", key: "ac" }, { name: "After War", tooltip: "Gundam X", key: "aw" }, { name: "Cosmic Era", tooltip: "SEED", key: "ce" }, { name: "Anno Domini", tooltip: "00 series", key: "ad" }, { name: "Reguild Century", tooltip: "G-Reco", key: "reguild" }, { name: "Post Disaster", tooltip: "IBO", key: "pd" }, { name: "Build Series", key: "bs"}, { name: "SD Gundam", key: "sdg"}, { name: "G Generation Series", key: "ggen"}, }
     ]
   }
-
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -2163,7 +2162,7 @@ dataSet[dataSetVersion].characterData = [
       timeline: ["uc"]
     }
   },
-{
+  {
     name: "Gaz-R",
     img: "csvGIr9.png",
     opts: {
