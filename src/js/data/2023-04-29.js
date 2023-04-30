@@ -383,7 +383,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Johnny Ridden's Zaku II HMT",
     img: "LT2tVZh.png",
     opts: {
-      series: ["msv"]
+      series: ["msv"],
       timeline: ["uc"]
     }
   },
