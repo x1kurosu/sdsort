@@ -1115,10 +1115,10 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-	name: "Mervin Harriot's Guncannon Heavy Type D"
-	img: "jPYzgBd.png"
+	name: "Mervin Harriot's Guncannon Heavy Type D",
+	img: "jPYzgBd.png",
 	opts: {
-	  series: ["mlink"]
+	  series: ["mlink"],
 	  timeline: ["uc"]
 	 }
   },
