@@ -61,7 +61,7 @@ dataSet[dataSetVersion].options = [
     key: "timeline",
     tooltip: "Check this to restrict to suits that appear in certain timelines.",
     checked: false,
-    sub: [ { name: "Universal Century", tooltip: "OG timeline", key: "uc" }, { name: "Future Century", tooltip: "G Gundam", key: "fc" }, { name: "After Colony", tooltip: "Wing", key: "ac" }, { name: "After War", tooltip: "Gundam X", key: "aw" }, { name: "Cosmic Era", tooltip: "SEED", key: "ce" }, { name: "Anno Domini", tooltip: "00 series", key: "ad" }, { name: "Reguild Century", tooltip: "G-Reco", key: "reguild" }, { name: "Post Disaster", tooltip: "IBO", key: "pd" }, { name: "Build Series", key: "bs"}, { name: "SD Gundam", key: "sdg"}, { name: "G Generation Series", key: "ggen"}, }
+    sub: [ { name: "Universal Century", tooltip: "OG timeline", key: "uc" }, { name: "Future Century", tooltip: "G Gundam", key: "fc" }, { name: "After Colony", tooltip: "Wing", key: "ac" }, { name: "After War", tooltip: "Gundam X", key: "aw" }, { name: "Cosmic Era", tooltip: "SEED", key: "ce" }, { name: "Anno Domini", tooltip: "00 series", key: "ad" }, { name: "Reguild Century", tooltip: "G-Reco", key: "reguild" }, { name: "Post Disaster", tooltip: "IBO", key: "pd" }, { name: "Build Series", key: "bs"}, { name: "SD Gundam", key: "sdg"}, { name: "G Generation Series", key: "ggen"}
     ]
   }
 ];
