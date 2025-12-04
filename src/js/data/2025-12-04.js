@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Blue Destiny Unit-1",
+    name: "Blue Destiny Unit-1 Blue Destiny Unit-1 Blue Destiny Unit-1",
     img: "bd1.png",
     opts: {
       series: [ "bluedestiny" ],
@@ -278,5 +278,6 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
 
