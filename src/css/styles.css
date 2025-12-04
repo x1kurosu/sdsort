@@ -145,10 +145,6 @@ body {
   border: 1px solid #000000;
 }
 
-.sorter img {
-  padding: 5px;
-}
-
 .options {
   margin: 1em auto;
   display: grid;
