@@ -96,7 +96,7 @@ dataSet[dataSetVersion].options = [
     { name: "Other Gundam Games", tooltip: "zanny", key: "other" },	  
     { name: "Gihren's Greed", tooltip: "gerbera tetra kai", key: "gihren" },	  
     { name: "Bonds of the Battlefield", tooltip: "guard custom", key: "botb" },	
-    { name: "G Generation Series", tooltip: "phoenix", key: "ggen" },
+    { name: "G Generation Series", tooltip: "phoenix", key: "ggen" }
     ]
   },
   {
@@ -121,8 +121,8 @@ dataSet[dataSetVersion].options = [
 	{ name: "Ad Stella", tooltip: "G-Witch", key: "as" },
 	{ name: "Build Series", key: "bs"},
 	{ name: "SD Gundam", key: "sdg"},
-	{ name: "G Generation Series", key: "ggen"}
-	{ name: "Other", tooltip: "???", key: "other" },
+	{ name: "G Generation Series", key: "ggen"},
+	{ name: "Other", tooltip: "???", key: "other" }
     ]
   },
   {
@@ -149,7 +149,7 @@ dataSet[dataSetVersion].options = [
 	{ name: "Full Armor", tooltip: "FA Hyaku-Shiki Kai", key: "fatag" },
 	{ name: "Knightly", tooltip: "knights", key: "knightly" },
 	{ name: "Gold", tooltip: "Hyaku-Shiki", key: "gold" },
-	{ name: "Fierce Enemy Assault", tooltip: "A recurring event unit type in G-Eternal.", key: "featag" },
+	{ name: "Fierce Enemy Assault", tooltip: "A recurring event unit type in G-Eternal.", key: "featag" }
     ]
   }
 ];
@@ -278,3 +278,4 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
