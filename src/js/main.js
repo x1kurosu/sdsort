@@ -834,11 +834,11 @@ function reduceTextWidth(text, font, width) {
   const canvas = reduceTextWidth.canvas || (reduceTextWidth.canvas = document.createElement("canvas"));
   const context = canvas.getContext("2d");
   context.font = font;
-  if (context.measureText(text).width < width * 0.8) {
+  if (context.measureText(text).width < width) {
     return text;
   } else {
     let reducedText = text;
-    while (context.measureText(reducedText).width + context.measureText('..').width > width * 0.8) {
+    while (context.measureText(reducedText).width + context.measureText('..').width > width) {
       reducedText = reducedText.slice(0, -1);
     }
     return reducedText + '..';
