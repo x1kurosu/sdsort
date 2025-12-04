@@ -1,8 +1,8 @@
 body {
   font-family: Calibri;
   font-size: 16px;
-  background: #002ead;
-  background: linear-gradient(90deg,rgba(0, 46, 173, 1) 0%, rgba(32, 201, 103, 1) 50%, rgba(83, 237, 191, 1) 100%);
+  background-image:url('https://raw.githubusercontent.com/x1kurosu/sdsort/refs/heads/master/src/assets/sdbg.jpg');
+  background-size: 100%;
 }
 
 .container {
