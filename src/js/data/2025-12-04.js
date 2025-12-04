@@ -217,7 +217,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dopp",
-    img: "file.png",
+    img: "dopp.png",
     opts: {
       series: [ "0079" ],
       timeline: ["uc"],
@@ -278,4 +278,5 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
