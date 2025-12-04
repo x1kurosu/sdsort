@@ -55,10 +55,6 @@ body {
   width: 100px;
 }
 
-.block {
-  display: flex;
-  align-items: center;
-
 .starting.start.button {
   -row: span 6;
 }
