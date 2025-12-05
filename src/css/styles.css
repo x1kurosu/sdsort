@@ -165,6 +165,33 @@ body {
   font-size: 0.5625em;
 }
 
+.sorter > .text, .sorting.button, .progress {
+background-color: rgba(0, 0, 16, 0.5);
+color: rgb(255,255,255);
+border: 3px solid rgba(0,0,32);
+border-radius:0px;
+font-weight: bold;
+}
+.progressfill {
+background: #fff5fe;
+background: radial-gradient(circle,rgba(255, 245, 254, 1) 0%, rgba(252, 204, 237, 1) 50%, rgba(227, 70, 164, 1) 100%);
+}
+.options, .info {
+background-color: rgba(0, 0, 16, 0.5);
+color: rgb(255,255,255);
+border: 3px solid rgba(0,0,32);
+border-radius:0px;
+}
+.sorter > .image {
+background: #a6f7f7;
+background: radial-gradient(circle, rgba(166, 247, 247, 1) 9%, rgba(40, 226, 244, 1) 35%, rgba(48, 141, 255, 1) 52%, rgba(75, 42, 242, 1) 77%, rgba(24, 0, 130, 1) 95%);
+border: 2px solid rgb(13,10,64);
+border-radius: 90px;
+}
+.option {
+font-size: 20px;
+}
+
 label {
   cursor: pointer;
 }
