@@ -3,6 +3,8 @@ body {
   font-size: 16px;
   background-image:url('https://raw.githubusercontent.com/x1kurosu/sdsort/refs/heads/master/src/assets/sdfight.png');
   background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .container {
