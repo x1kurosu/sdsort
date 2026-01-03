@@ -1189,7 +1189,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gundam GP01 (Chobham Armor)",
-    img: "gp01chobham.png",
+    img: "chobhamgp01.png",
     opts: {
       series: [ "0083" ],
       timeline: ["uc"],
@@ -1206,7 +1206,7 @@ dataSet[dataSetVersion].characterData = [
 	  tags: ["gundam"],
 	  rarity: ["ssrrarity"]
     }
-  },
+  }
 /*  {
 	name: "Master Phoenix",
 	img: "18VZVKE.png",
@@ -1216,6 +1216,7 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
 
 
