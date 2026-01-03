@@ -587,7 +587,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "0079" ],
       timeline: ["uc"],
 	  tags: ["matag", "monoeye", "psytag", "rivaltag"],
-	  rarity: ["rrarity"]
+	  rarity: ["ssrrarity"]
     }
   },
 /* 0079 Ultimate */
@@ -1206,16 +1206,9 @@ dataSet[dataSetVersion].characterData = [
 	  tags: ["gundam"],
 	  rarity: ["ssrrarity"]
     }
-  },
-/*  {
-	name: "Master Phoenix",
-	img: "18VZVKE.png",
-	opts: {
-	  series: ["ggen"],
-	  timeline: ["ggen"]
-	}
-  } */
+  }
 ];
+
 
 
 
