@@ -628,7 +628,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "0079" ],
       timeline: ["uc"],
-	  tags: ["aircraft"],
+	  tags: ["airtag"],
 	  rarity: ["rrarity"]
     }
   },
@@ -759,7 +759,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "0079", "msv" ],
       timeline: ["uc"],
-	  tags: ["aircraft", "mptag"],
+	  tags: ["airtag", "mptag"],
 	  rarity: ["norarity"]
     }
   },
@@ -769,7 +769,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "0079" ],
       timeline: ["uc"],
-	  tags: ["aircraft", "mptag"],
+	  tags: ["airtag", "mptag"],
 	  rarity: ["norarity"]
     }
   },
@@ -1226,6 +1226,7 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
 
 
