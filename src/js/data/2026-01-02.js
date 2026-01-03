@@ -339,16 +339,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gouf",
-    img: "gouf.png",
-    opts: {
-      series: [ "0079" ],
-      timeline: ["uc"],
-	  tags: ["monoeye", "mptag"],
-	  rarity: ["rrarity"]
-    }
-  },
-  {
     name: "Dom",
     img: "dom.png",
     opts: {
@@ -891,7 +881,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "0080" ],
       timeline: ["uc"],
-	  tags: ["monoeye", "mptag", "sniper"],
+	  tags: ["monoeye", "mptag", "snipertag"],
 	  rarity: ["rrarity"]
     }
   },
@@ -911,7 +901,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "0080" ],
       timeline: ["uc"],
-	  tags: ["gmtag", "mptag", "sniper"],
+	  tags: ["gmtag", "mptag", "snipertag"],
 	  rarity: ["rrarity"]
     }
   },
@@ -1216,7 +1206,7 @@ dataSet[dataSetVersion].characterData = [
 	  tags: ["gundam"],
 	  rarity: ["ssrrarity"]
     }
-  }
+  },
 /*  {
 	name: "Master Phoenix",
 	img: "18VZVKE.png",
@@ -1226,6 +1216,7 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
 
 
