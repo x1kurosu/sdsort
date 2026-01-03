@@ -1206,7 +1206,7 @@ dataSet[dataSetVersion].characterData = [
 	  tags: ["gundam"],
 	  rarity: ["ssrrarity"]
     }
-  }
+  },
 /*  {
 	name: "Master Phoenix",
 	img: "18VZVKE.png",
@@ -1216,6 +1216,7 @@ dataSet[dataSetVersion].characterData = [
 	}
   } */
 ];
+
 
 
 
